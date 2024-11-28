@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"X:/GitHub/Game-Jame-3/DetentionDodger/Content/GameFiles/AssetShowcaseLevel.umap",
+				"X:/GitHub/Game-Jame-3/DetentionDodger/Content/GameFiles/AssetImport/Cars/BlueCar/BlueCar.uasset",
+				"X:/GitHub/Game-Jame-3/DetentionDodger/Content/GameFiles/AssetImport/Cars/GreenCar/GreenCar.uasset",
+				"X:/GitHub/Game-Jame-3/DetentionDodger/Content/GameFiles/AssetImport/Cars/PoliceCar/PoliceCar.uasset",
+				"X:/GitHub/Game-Jame-3/DetentionDodger/Content/GameFiles/AssetImport/Cars/RedCar/RedCar.uasset",
+				"X:/GitHub/Game-Jame-3/DetentionDodger/Content/GameFiles/AssetImport/Cars/TaxiCar/TaxiCar.uasset",
+				"X:/UnrealSaves/DetentionDodger/Content/GameFiles/AssetImport/CarVar1/CarVar1.uasset",
+				"X:/UnrealSaves/DetentionDodger/Content/GameFiles/AssetImport/CarVar1/CarVar1_DefaultMaterial_BaseColor.uasset",
+				"X:/UnrealSaves/DetentionDodger/Content/GameFiles/AssetImport/CarVar1/CarVar1_DefaultMaterial_Normal.uasset",
+				"X:/UnrealSaves/DetentionDodger/Content/GameFiles/AssetImport/CarVar1/CarVar1_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
+				"X:/UnrealSaves/DetentionDodger/Content/GameFiles/AssetShowcaseLevel.umap",
+				"X:/UnrealSaves/DetentionDodger/Content/GameFiles/AssetImport/CarVar1/M_CarVar1.uasset",
+				"X:/UnrealSaves/DetentionDodger/Content/GameFiles/AssetImport/Cars/RedCar/RedCar.uasset",
+				"X:/UnrealSaves/DetentionDodger/Content/GameFiles/AssetImport/Cars/PoliceCar/PoliceCar.uasset",
+				"X:/UnrealSaves/DetentionDodger/Content/GameFiles/AssetImport/Cars/GreenCar/GreenCar.uasset",
+				"X:/UnrealSaves/DetentionDodger/Content/GameFiles/AssetImport/Cars/TaxiCar/TaxiCar.uasset",
+				"X:/UnrealSaves/DetentionDodger/Content/GameFiles/AssetImport/Cars/BlueCar/BlueCar.uasset",
+				"X:/UnrealSaves/DetentionDodger/Content/GameFiles/AssetImport/Cars/BlueCar/BlueCarGameJam3_DefaultMaterial_Normal.uasset",
+				"X:/UnrealSaves/DetentionDodger/Content/GameFiles/AssetImport/Cars/BlueCar/BlueCarGameJam3_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
+				"X:/UnrealSaves/DetentionDodger/Content/GameFiles/AssetImport/Cars/BlueCar/BlueCarGameJam3_DefaultMaterial_BaseColor.uasset",
+				"X:/UnrealSaves/DetentionDodger/Content/GameFiles/AssetImport/Cars/GreenCar/GreenCarGameJam3_DefaultMaterial_BaseColor.uasset",
+				"X:/UnrealSaves/DetentionDodger/Content/GameFiles/AssetImport/Cars/GreenCar/GreenCarGameJam3_DefaultMaterial_Normal.uasset",
+				"X:/UnrealSaves/DetentionDodger/Content/GameFiles/AssetImport/Cars/GreenCar/GreenCarGameJam3_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
+				"X:/UnrealSaves/DetentionDodger/Content/GameFiles/AssetImport/Cars/PoliceCar/PoliceCarGameJam3_DefaultMaterial_BaseColor.uasset",
+				"X:/UnrealSaves/DetentionDodger/Content/GameFiles/AssetImport/Cars/PoliceCar/PoliceCarGameJam3_DefaultMaterial_Normal.uasset",
+				"X:/UnrealSaves/DetentionDodger/Content/GameFiles/AssetImport/Cars/PoliceCar/PoliceCarGameJam3_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
+				"X:/UnrealSaves/DetentionDodger/Content/GameFiles/AssetImport/Cars/RedCar/RedCarGameJam3_DefaultMaterial_BaseColor.uasset",
+				"X:/UnrealSaves/DetentionDodger/Content/GameFiles/AssetImport/Cars/RedCar/RedCarGameJam3_DefaultMaterial_Normal.uasset",
+				"X:/UnrealSaves/DetentionDodger/Content/GameFiles/AssetImport/Cars/RedCar/RedCarGameJam3_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
+				"X:/UnrealSaves/DetentionDodger/Content/GameFiles/AssetImport/Cars/TaxiCar/TaxiGameJam3_DefaultMaterial_BaseColor.uasset",
+				"X:/UnrealSaves/DetentionDodger/Content/GameFiles/AssetImport/Cars/TaxiCar/TaxiGameJam3_DefaultMaterial_Normal.uasset",
+				"X:/UnrealSaves/DetentionDodger/Content/GameFiles/AssetImport/Cars/TaxiCar/TaxiGameJam3_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
+				"X:/UnrealSaves/DetentionDodger/Content/GameFiles/AssetImport/Cars/RedCar/M_RedCar.uasset",
+				"X:/UnrealSaves/DetentionDodger/Content/GameFiles/AssetImport/Cars/PoliceCar/M_PoliceCar.uasset",
+				"X:/UnrealSaves/DetentionDodger/Content/GameFiles/AssetImport/Cars/GreenCar/M_GreenCar.uasset",
+				"X:/UnrealSaves/DetentionDodger/Content/GameFiles/AssetImport/Cars/BlueCar/M_BlueCar.uasset",
+				"X:/UnrealSaves/DetentionDodger/Content/GameFiles/AssetImport/Cars/TaxiCar/M_TaxiCar.uasset"
+			]
+		}
+	]
+}

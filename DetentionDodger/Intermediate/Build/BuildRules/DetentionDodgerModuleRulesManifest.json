@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"X:\\UnrealSaves\\DetentionDodger\\Source\\DetentionDodger\\DetentionDodger.Build.cs",
+		"X:\\UnrealSaves\\DetentionDodger\\Source\\DetentionDodger.Target.cs",
+		"X:\\UnrealSaves\\DetentionDodger\\Source\\DetentionDodgerEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

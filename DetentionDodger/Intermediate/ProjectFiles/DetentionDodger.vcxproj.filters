@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DetentionDodger.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DetentionDodger.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DetentionDodgerEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\DetentionDodger">
+      <UniqueIdentifier>{58C0B493-7A9C-3266-BB87-4BD71377BE72}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DetentionDodger\DetentionDodger.Build.cs">
+      <Filter>Source\DetentionDodger</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DetentionDodger\DetentionDodger.cpp">
+      <Filter>Source\DetentionDodger</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DetentionDodger\DetentionDodger.h">
+      <Filter>Source\DetentionDodger</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DetentionDodger\DetentionDodgerCharacter.cpp">
+      <Filter>Source\DetentionDodger</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DetentionDodger\DetentionDodgerCharacter.h">
+      <Filter>Source\DetentionDodger</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DetentionDodger\DetentionDodgerGameMode.cpp">
+      <Filter>Source\DetentionDodger</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DetentionDodger\DetentionDodgerGameMode.h">
+      <Filter>Source\DetentionDodger</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

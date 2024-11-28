@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "x:\\unrealsaves\\detentiondodger\\source\\detentiondodger\\detentiondodger.cpp",
+        "ProvidedModule": "",
+        "PCH": "x:\\unrealsaves\\detentiondodger\\intermediate\\build\\win64\\x64\\detentiondodgereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "x:\\unrealsaves\\detentiondodger\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\detentiondodger\\definitions.detentiondodger.h",
+            "x:\\unrealsaves\\detentiondodger\\source\\detentiondodger\\detentiondodger.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

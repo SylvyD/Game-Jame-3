@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DetentionDodger",
+			"Path": "..\\Source\\DetentionDodger.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DetentionDodgerEditor",
+			"Path": "..\\Source\\DetentionDodgerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

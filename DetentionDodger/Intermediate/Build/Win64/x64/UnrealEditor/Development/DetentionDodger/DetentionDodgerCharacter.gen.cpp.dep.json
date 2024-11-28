@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "x:\\unrealsaves\\detentiondodger\\intermediate\\build\\win64\\unrealeditor\\inc\\detentiondodger\\uht\\detentiondodgercharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "x:\\unrealsaves\\detentiondodger\\intermediate\\build\\win64\\x64\\detentiondodgereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "x:\\unrealsaves\\detentiondodger\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\detentiondodger\\definitions.detentiondodger.h",
+            "x:\\unrealsaves\\detentiondodger\\source\\detentiondodger\\detentiondodgercharacter.h",
+            "x:\\hunter\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "x:\\hunter\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "x:\\hunter\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "x:\\hunter\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "x:\\hunter\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "x:\\hunter\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "x:\\hunter\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "x:\\hunter\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "x:\\unrealsaves\\detentiondodger\\intermediate\\build\\win64\\unrealeditor\\inc\\detentiondodger\\uht\\detentiondodgercharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
